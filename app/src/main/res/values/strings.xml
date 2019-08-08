@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Checkout 51</string>
+
+    <string name="no_item">No Item Available…</string>
+    <string name="cb_txt">Save $</string>
+
+    <string name="sample_name">Nivea Body Soap</string>
+    <string name="sample_cb">Save $ 20.00</string>
+
+    <string name="sort_title">Sort By : </string>
+    <string name="sort_cb_txt">Sort By CashBack</string>
+    <string name="sort_name_asc_txt">Sort By Name (Ascending)</string>
+    <string name="sort_name_desc_txt">Sort By Name (Descending)</string>
+    <string name="loading_txt">Loading Items… Please Wait!!!</string>
+
+    <string name="menu_sort">Sort</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
