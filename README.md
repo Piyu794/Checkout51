@@ -1,6 +1,6 @@
-# Egg &mdash; the Applicasa Sample App for 	Android
+# Checkout &mdash; Sample App
 
-This is a sample app provided to show developers what Applicasa looks like in action, and help them see a real example of integrating Applicasa into their applications.
+This is a sample app provided as an assignment which will display list of items & available cashback with them. User can sort the list by Name & Cashback Value as well.
 
 ## About Applicasa
 
