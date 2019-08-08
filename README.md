@@ -15,6 +15,7 @@ The app is composed of 3 packages.
  
 #### View:
 It contains ```MainActivity``` & ```Adapter```
+
 List are getting observed from ```ViewModel``` & displaying in ```Adapter```
 
 #### Model:
