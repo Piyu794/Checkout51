@@ -5,6 +5,14 @@ This is a sample app provided as an assignment that uses Android Architecture Co
 ## About App
 
 The App will display list of items & available cashback with them. User can sort the list by Name & Cashback Value as well.
+
+# Introduction
+### Functionality:
+The app is composed of 3 packages.
+  * View
+  * Model
+  * ViewModel
+
  
 ## Raise Custom events:
 ```
