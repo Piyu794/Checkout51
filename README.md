@@ -1,20 +1,10 @@
 # Checkout51 &mdash; Sample App
 
-This is a sample app provided as an assignment.
+This is a sample app provided as an assignment that uses Android Architecture Components.
 
 ## About App
 
 The App will display list of items & available cashback with them. User can sort the list by Name & Cashback Value as well.
-
-## About Egg
-
-Egg is an imagined game that shows common scenarios and code samples that developers can learn from and emulate in their own applications.
-
-### What New (24.10.2013):
-1. Custom events for monetization.
-2. More Ad networks to the monetization section.
-3. Send delayed push messages
-4. Bug Fix
  
 ## Raise Custom events:
 ```
