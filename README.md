@@ -1,10 +1,10 @@
 # Checkout51 &mdash; Sample App
 
-This is a sample app provided as an assignment which will display list of items & available cashback with them. User can sort the list by Name & Cashback Value as well.
+This is a sample app provided as an assignment.
 
-## About Applicasa
+## About App
 
-Applicasa is a Mobile Game Management Platform that provides developers a series of frameworks and a custom SDK for iOS and Android platforms that provide extensive support for In-App Purchases, Promotions, Analytics, and a customizable backend datastore. You can find out more information at [the Applicasa website](http://applicasa.com).
+The App will display list of items & available cashback with them. User can sort the list by Name & Cashback Value as well.
 
 ## About Egg
 
