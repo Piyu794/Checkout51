@@ -20,13 +20,18 @@ List are getting observed from ```ViewModel``` & displaying in ```Adapter```
 
 #### Model:
 It contains ```Network```, ```Responses``` & ```Repository```
+
 Network Responses are stored in ```Responses``` Package.
+
 Netowrk Client & Api are initialized in ```Network``` Package.
+
 ```Repository``` is fetching the list of items over Network.
 
 #### ViewModel:
 It contains ```ItemViewModel```
+
 ```ItemViewModel``` is observing the list from ```Repository``` & exposing them so that ```MainActivity``` can observe them.
+
 Sorting Functionality is also happening in ```ItemViewModel```
  
 ## Raise Custom events:
