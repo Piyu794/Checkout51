@@ -1,4 +1,4 @@
-# Checkout &mdash; Sample App
+# Checkout51 &mdash; Sample App
 
 This is a sample app provided as an assignment which will display list of items & available cashback with them. User can sort the list by Name & Cashback Value as well.
 
